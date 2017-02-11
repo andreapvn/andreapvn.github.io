@@ -15,3 +15,5 @@ Should Haskell be compiled to JS or should Haskell have a binding to JS, just
 like it would porbably have bindings to HTML and CSS?
 
 Check out GHCJS and reflex (and reflex.dom).
+
+Also this: https://www.reddit.com/r/haskell/comments/3wxggs/whats_the_best_way_to_create_gui_for_haskell/
