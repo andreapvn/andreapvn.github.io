@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing Web Apps in Haskell
-tags: haskell
+tags: haskell web-UI
 ---
 Find a way to develop web apps using Haskell.
 
@@ -17,3 +17,4 @@ like it would porbably have bindings to HTML and CSS?
 Check out GHCJS and reflex (and reflex.dom).
 
 Also this: https://www.reddit.com/r/haskell/comments/3wxggs/whats_the_best_way_to_create_gui_for_haskell/
+
